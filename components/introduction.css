@@ -1,0 +1,19 @@
+*{
+    background-color:lightgrey ;
+}
+.header{
+    display: flex;
+    margin: 10px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    flex-direction: column;
+    font-size: large;
+}
+.body-work{
+    display: flex;
+    margin: 10px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    flex-direction: column;
+    font-size: larger;
+}
